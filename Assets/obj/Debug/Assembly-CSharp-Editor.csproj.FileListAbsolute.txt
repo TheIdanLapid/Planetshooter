@@ -1,0 +1,2 @@
+D:\Repos\GameJam\Brackeys Game Jam 2021.2\Assets\MultiplayerFPS\obj\Debug\Assembly-CSharp-Editor.csproj.AssemblyReference.cache
+D:\Repos\GameJam\Brackeys Game Jam 2021.2\Assets\MultiplayerFPS\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
